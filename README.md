@@ -90,7 +90,7 @@ Design upselling strategies around Regular and Large sizes and review pricing or
 ---
 
 ## 🏁 Conclusion & Key Takeaways
-![Conclusion](Screenshots/conclusion_and_key_takeaways.png)
+![Conclusion](Screenshots/conclusion_and_key_takeways.png)
 
 **Key Takeaways:**
 - Morning hours and weekdays generate the highest order volumes.  
